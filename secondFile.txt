@@ -1,7 +1,7 @@
 Oh, here we go again...
 2
-3
-4
+this line was edited at step 4
+and this one too...
 5
 6
 7
